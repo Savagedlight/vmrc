@@ -10,7 +10,7 @@ Development snapshot: http://vmrc.bsd.lv/vmrc-snapshot.tar (Often newer)
 ## Documentation
 - [Known Issues](doc/known-issues.txt)
 - [Usage Instructions](doc/vmrc-instructions.txt)
-- [Developper Instructions](doc/vmrc-dev-instructions.txt)
+- [Developer Instructions](doc/vmrc-dev-instructions.txt)
 - [Changelog](doc/changelog.txt)
 
 ## NOTICE
